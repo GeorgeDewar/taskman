@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["George Dewar"]
   s.email       = 'george@dewar.co.nz'
   s.files       = ["lib/taskman.rb"]
+  s.executables = ["taskman"]
   s.homepage    =
     'http://rubygems.org/gems/taskman'
   s.license       = 'MIT'

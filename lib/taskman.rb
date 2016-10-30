@@ -1,6 +1,5 @@
-class Taskman
-  def self.hi
-    puts "Hello world!"
-    return "hi"
-  end
+module Taskman
+
 end
+
+require 'taskman/task'

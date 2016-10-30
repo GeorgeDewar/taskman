@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A gem for managing long-running or repeated background tasks, like polling an API"
   s.authors     = ["George Dewar"]
   s.email       = 'george@dewar.co.nz'
-  s.files       = ["lib/taskman.rb"]
+  s.files       = ["lib/taskman.rb", "lib/taskman/task.rb"]
   s.executables = ["taskman"]
   s.homepage    =
     'http://rubygems.org/gems/taskman'
